@@ -18,11 +18,11 @@
 	--streaming-indicator: hsl(260, 60%, 60%); /* change to #593695 for default purple */
 
 	/* accent colors */
-	--accent-1: #6f00ff; /* links */
-	--accent-2: #6f00ff; /* general unread/mention elements */
-	--accent-3: #6f00ff /* accent buttons */
-	--accent-4: #6f00ff; /* accent buttons when hovered */
-	--accent-5: #6f00ff; /* accent buttons when clicked */
+	--accent-1: #7152e0; /* links */
+	--accent-2: #6c25d0; /* general unread/mention elements */
+	--accent-3: ##7225d0; /* accent buttons */
+	--accent-4: ##4f1c9c; /* accent buttons when hovered */
+	--accent-5: ##421782; /* accent buttons when clicked */
 	--mention: hsla(264, 80%, 52%, 0.1); /* mentions & mention messages */
 	--mention-hover: hsla(261, 80%, 52%, 0.05); /* mentions & mention messages when hovered */
 
